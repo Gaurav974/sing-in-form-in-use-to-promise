@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    background-image: url('https://images.pexels.com/photos/1191710/pexels-photo-1191710.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.singupbox {
+    height: 100vh;
+
+}
+
+.card {
+    border: 5px solid rgb(0, 0, 0);
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+
+.card-body,
+.card-header {
+    border-bottom: 5px solid whitesmoke;
+}
